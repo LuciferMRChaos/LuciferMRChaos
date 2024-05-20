@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuciferMRChaos
+- 👋 Hi, I’m @RunchenMao
 - 👀 I’m interested in ASP.NET Web
 - 🌱 I’m currently learning C#
 - 💞️ I’ve learnt many programming languages, such as C, Java, HTML, C#& ASP.NET Web
